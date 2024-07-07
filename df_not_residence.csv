@@ -1,0 +1,121 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,work_setting,company_location,company_size,job_category
+2024,Entry-level,Full-time,Admin & Data Analyst,40000,USD,40000,India,Remote,United States,M,Data Analysis
+2024,Entry-level,Full-time,Data Analytics Manager,27000,USD,27000,India,Remote,American Samoa,M,Leadership and Management
+2024,Mid-level,Contract,AI Research Engineer,57000,EUR,63333,Croatia,Remote,Hungary,S,Data Science and Research
+2023,Mid-level,Contract,AI Engineer,50000,USD,50000,Czechia,Remote,Canada,L,Machine Learning and AI
+2023,Mid-level,Freelance,Data Science Consultant,21000,USD,21000,Pakistan,Remote,Luxembourg,S,Data Science and Research
+2023,Entry-level,Full-time,BI Data Analyst,25000,USD,25000,Ukraine,Remote,Netherlands,M,Data Analysis
+2023,Senior,Full-time,Business Data Analyst,65000,GBP,79976,Spain,Remote,Gibraltar,L,Data Analysis
+2023,Entry-level,Full-time,Machine Learning Engineer,36000,USD,36000,Uganda,Remote,United States,M,Machine Learning and AI
+2023,Senior,Full-time,Machine Learning Engineer,65000,EUR,70179,Italy,Remote,United States,L,Machine Learning and AI
+2023,Mid-level,Full-time,Machine Learning Engineer,45000,EUR,48585,Italy,Remote,United Kingdom,M,Machine Learning and AI
+2023,Mid-level,Full-time,Business Data Analyst,17000,USD,17000,Armenia,Remote,Russian Federation,L,Data Analysis
+2023,Entry-level,Full-time,AI Engineer,35000,USD,35000,Croatia,Remote,Germany,M,Machine Learning and AI
+2023,Senior,Full-time,Machine Learning Operations Engineer,60000,USD,60000,Thailand,Remote,United States,L,Machine Learning and AI
+2023,Entry-level,Full-time,Data Scientist,150000,PLN,34924,Türkiye,In-person,Poland,M,Data Science and Research
+2023,Senior,Full-time,AI Programmer,120000,USD,120000,Canada,Remote,France,M,Machine Learning and AI
+2023,Senior,Full-time,Data Science Manager,100000,EUR,107968,Philippines,Hybrid,Czechia,L,Data Science and Research
+2022,Entry-level,Full-time,Machine Learning Scientist,80000,USD,80000,Canada,Hybrid,United States,S,Machine Learning and AI
+2023,Entry-level,Full-time,Data Engineer,90000,USD,90000,United States,Hybrid,Canada,L,Data Engineering
+2023,Mid-level,Contract,Business Data Analyst,35000,USD,35000,Philippines,Remote,United States,M,Data Analysis
+2022,Mid-level,Contract,Applied Machine Learning Scientist,93000,EUR,97712,Italy,Remote,Netherlands,L,Machine Learning and AI
+2023,Senior,Full-time,Machine Learning Manager,120000,EUR,129562,Germany,Remote,United States,L,Machine Learning and AI
+2023,Entry-level,Full-time,BI Data Analyst,85000,USD,85000,Canada,Remote,United States,M,Data Analysis
+2023,Mid-level,Full-time,AI Research Engineer,150000,USD,150000,Tunisia,Remote,United States,M,Data Science and Research
+2023,Mid-level,Full-time,Power BI Developer,60000,EUR,64781,Poland,Remote,Denmark,L,BI and Visualization
+2023,Senior,Full-time,Data Engineer,80000,EUR,86374,Germany,Remote,Sweden,L,Data Engineering
+2023,Executive,Full-time,AI Architect,200000,EUR,215936,Belgium,Remote,United States,L,Machine Learning and AI
+2023,Mid-level,Full-time,Data Engineer,27000,USD,27000,Peru,Remote,Portugal,S,Data Engineering
+2023,Senior,Full-time,Lead Machine Learning Engineer,115000,USD,115000,"Moldova, Republic of",Remote,Israel,S,Machine Learning and AI
+2023,Senior,Full-time,AI Scientist,100000,USD,100000,Türkiye,Remote,United States,S,Machine Learning and AI
+2023,Mid-level,Full-time,Applied Scientist,20000,USD,20000,Nigeria,Remote,United States,L,Data Science and Research
+2021,Mid-level,Part-time,Business Data Analyst,56000,USD,56000,Ghana,Remote,United States,M,Data Analysis
+2023,Entry-level,Full-time,Computer Vision Engineer,90000,USD,90000,India,Remote,United States,M,Machine Learning and AI
+2023,Mid-level,Full-time,BI Data Analyst,70000,USD,70000,Egypt,Remote,United States,M,Data Analysis
+2023,Senior,Full-time,BI Developer,160000,USD,160000,United States,Remote,Japan,L,BI and Visualization
+2023,Entry-level,Full-time,Data Scientist,40000,USD,40000,Uzbekistan,Remote,United States,M,Data Science and Research
+2023,Entry-level,Full-time,BI Data Analyst,60000,USD,60000,Argentina,Remote,United States,M,Data Analysis
+2022,Mid-level,Full-time,Data Scientist,45000,GBP,55410,France,Remote,United Kingdom,M,Data Science and Research
+2023,Senior,Full-time,Product Data Analyst,57000,USD,57000,Georgia,Remote,Russian Federation,L,Data Analysis
+2023,Entry-level,Full-time,Cloud Data Engineer,100000,USD,100000,Germany,Hybrid,United States,L,Data Engineering
+2023,Senior,Contract,Finance Data Analyst,300000,EUR,323905,France,Remote,United States,M,Data Analysis
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,Portugal,Remote,United States,M,Machine Learning and AI
+2023,Mid-level,Full-time,Applied Machine Learning Engineer,65000,EUR,70179,India,Remote,Germany,S,Machine Learning and AI
+2020,Executive,Full-time,Staff Data Analyst,15000,USD,15000,Nigeria,In-person,Canada,M,Data Analysis
+2023,Senior,Full-time,Applied Data Scientist,100000,AUD,67635,Australia,Remote,Finland,M,Data Science and Research
+2022,Senior,Full-time,Data Scientist,84000,EUR,88256,Spain,Remote,United Kingdom,L,Data Science and Research
+2023,Mid-level,Full-time,Data Scientist,56000,EUR,60462,Austria,Remote,Germany,M,Data Science and Research
+2023,Entry-level,Full-time,AI Programmer,70000,USD,70000,India,In-person,Australia,L,Machine Learning and AI
+2023,Senior,Freelance,Software Data Engineer,50000,USD,50000,Nigeria,Hybrid,Australia,M,Data Engineering
+2023,Entry-level,Full-time,Data Analyst,100000,USD,100000,Uzbekistan,Remote,United States,L,Data Analysis
+2022,Executive,Full-time,Data Science Manager,106000,USD,106000,Uzbekistan,In-person,Russian Federation,L,Data Science and Research
+2023,Entry-level,Part-time,Data Analyst,78000,PLN,18160,Poland,Remote,India,L,Data Analysis
+2023,Entry-level,Full-time,Data Analyst,50000,USD,50000,Kuwait,Hybrid,United States,L,Data Analysis
+2023,Senior,Full-time,Computer Vision Software Engineer,50000,EUR,53984,Netherlands,Remote,Canada,L,Machine Learning and AI
+2023,Senior,Full-time,Data Scientist,59000,EUR,63701,Cyprus,Hybrid,Estonia,L,Data Science and Research
+2023,Entry-level,Full-time,Data Analyst,30000,USD,30000,Argentina,Remote,United States,S,Data Analysis
+2023,Entry-level,Full-time,Data Scientist,50000,USD,50000,India,Remote,United States,M,Data Science and Research
+2022,Entry-level,Part-time,Data Analyst,24000,EUR,25216,Spain,Remote,United States,L,Data Analysis
+2022,Entry-level,Full-time,Applied Data Scientist,40000,USD,40000,Australia,Remote,Pakistan,M,Data Science and Research
+2022,Entry-level,Full-time,AI Programmer,40000,USD,40000,Pakistan,Remote,Australia,M,Machine Learning and AI
+2022,Entry-level,Full-time,Machine Learning Developer,40000,USD,40000,Pakistan,Remote,Australia,M,Machine Learning and AI
+2022,Senior,Full-time,Data Analyst,171000,USD,171000,United States,Remote,Australia,L,Data Analysis
+2022,Entry-level,Freelance,Data Analytics Consultant,50000,USD,50000,Belgium,Remote,United States,S,Leadership and Management
+2021,Mid-level,Freelance,Autonomous Vehicle Technician,45555,USD,45555,American Samoa,Hybrid,Bahamas,M,Machine Learning and AI
+2022,Entry-level,Full-time,Machine Learning Developer,33000,USD,33000,Italy,Remote,Germany,S,Machine Learning and AI
+2022,Entry-level,Full-time,Machine Learning Scientist,33000,EUR,34672,Italy,Remote,Germany,S,Machine Learning and AI
+2022,Entry-level,Part-time,Data Analyst,125404,USD,125404,China,Hybrid,United States,S,Data Analysis
+2022,Entry-level,Full-time,Data Analyst,20000,USD,20000,Costa Rica,Hybrid,United States,M,Data Analysis
+2022,Entry-level,Full-time,Data Specialist,105000,USD,105000,Chile,Remote,United States,L,Data Management and Strategy
+2022,Entry-level,Full-time,AI Scientist,30000,EUR,31520,Portugal,Remote,Spain,M,Machine Learning and AI
+2022,Mid-level,Contract,NLP Engineer,60000,USD,60000,India,Remote,United States,S,Machine Learning and AI
+2022,Entry-level,Full-time,Business Data Analyst,50000,USD,50000,India,Remote,American Samoa,L,Data Analysis
+2022,Senior,Full-time,Data Engineer,193000,USD,193000,Spain,Remote,United States,M,Data Engineering
+2022,Entry-level,Full-time,Data Scientist,50000,USD,50000,United States,Hybrid,Germany,M,Data Science and Research
+2022,Mid-level,Full-time,Applied Machine Learning Scientist,75000,USD,75000,"Bolivia, Plurinational State of",Remote,United States,M,Machine Learning and AI
+2022,Entry-level,Part-time,Data Scientist,110000,USD,110000,Dominican Republic,Remote,France,M,Data Science and Research
+2022,Senior,Full-time,Analytics Engineer,48000,USD,48000,Argentina,Remote,United States,S,Leadership and Management
+2022,Senior,Full-time,Applied Machine Learning Scientist,73400,EUR,77119,France,Remote,United Kingdom,L,Machine Learning and AI
+2022,Mid-level,Full-time,AI Scientist,200000,USD,200000,India,Remote,United States,L,Machine Learning and AI
+2022,Mid-level,Full-time,Machine Learning Engineer,80000,EUR,84053,France,Remote,Germany,M,Machine Learning and AI
+2022,Senior,Full-time,Data Science Engineer,60000,USD,60000,Argentina,Remote,Mexico,L,Data Science and Research
+2022,Mid-level,Full-time,Applied Machine Learning Scientist,75000,USD,75000,"Bolivia, Plurinational State of",Remote,United States,L,Machine Learning and AI
+2022,Senior,Full-time,Head of Data,200000,USD,200000,Malaysia,Remote,United States,M,Leadership and Management
+2022,Entry-level,Full-time,Data Scientist,40000,USD,40000,Japan,Remote,Malaysia,L,Data Science and Research
+2020,Entry-level,Full-time,Data Engineer,48000,EUR,54742,Pakistan,Remote,Germany,L,Data Engineering
+2022,Senior,Full-time,Data Scientist,100000,USD,100000,Brazil,Remote,United States,M,Data Science and Research
+2022,Entry-level,Contract,Applied Machine Learning Scientist,29000,EUR,30469,Tunisia,Remote,Czechia,M,Machine Learning and AI
+2022,Entry-level,Full-time,Data Engineer,52800,EUR,55475,Pakistan,Remote,Germany,M,Data Engineering
+2022,Mid-level,Full-time,Data Scientist,48000,USD,48000,Russian Federation,Remote,United States,S,Data Science and Research
+2022,Mid-level,Freelance,Data Scientist,100000,USD,100000,Canada,Remote,United States,M,Data Science and Research
+2021,Mid-level,Full-time,Applied Machine Learning Scientist,38400,USD,38400,Viet Nam,Remote,United States,M,Machine Learning and AI
+2021,Mid-level,Full-time,Big Data Engineer,60000,USD,60000,Spain,Hybrid,Romania,M,Data Engineering
+2020,Senior,Full-time,Data Scientist,60000,EUR,68428,Greece,Remote,United States,L,Data Science and Research
+2021,Mid-level,Full-time,Applied Data Scientist,68000,CAD,54238,United Kingdom,Hybrid,Canada,L,Data Science and Research
+2021,Executive,Full-time,Director of Data Science,130000,EUR,153667,Italy,Remote,Poland,L,Data Science and Research
+2021,Senior,Full-time,Data Analyst,80000,USD,80000,Bulgaria,Remote,United States,S,Data Analysis
+2020,Mid-level,Full-time,Data Scientist,45760,USD,45760,Philippines,Remote,United States,S,Data Science and Research
+2021,Executive,Full-time,BI Data Analyst,150000,USD,150000,India,Remote,United States,L,Data Analysis
+2021,Senior,Full-time,Marketing Data Analyst,75000,EUR,88654,Greece,Remote,Denmark,L,Data Analysis
+2021,Mid-level,Full-time,Computer Vision Software Engineer,81000,EUR,95746,Germany,Remote,United States,S,Machine Learning and AI
+2021,Senior,Full-time,Cloud Data Engineer,160000,USD,160000,Brazil,Remote,United States,S,Data Engineering
+2021,Entry-level,Full-time,Research Scientist,100000,USD,100000,Jersey,In-person,China,L,Data Science and Research
+2021,Entry-level,Full-time,Machine Learning Engineer,85000,USD,85000,Netherlands,Remote,Germany,S,Machine Learning and AI
+2021,Senior,Full-time,Lead Data Engineer,160000,USD,160000,Puerto Rico,Hybrid,United States,S,Data Engineering
+2021,Mid-level,Full-time,Data Scientist,21600,EUR,25532,Serbia,Remote,Germany,S,Data Science and Research
+2021,Executive,Full-time,Data Science Consultant,59000,EUR,69741,France,Remote,Spain,S,Data Science and Research
+2021,Senior,Full-time,Data Analytics Engineer,50000,USD,50000,Viet Nam,Remote,United Kingdom,M,Leadership and Management
+2021,Mid-level,Full-time,Data Engineer,22000,EUR,26005,Romania,In-person,United States,L,Data Engineering
+2021,Mid-level,Full-time,Data Scientist,52000,EUR,61467,Germany,Hybrid,Austria,M,Data Science and Research
+2021,Senior,Full-time,Machine Learning Scientist,225000,USD,225000,United States,Remote,Canada,L,Machine Learning and AI
+2020,Senior,Full-time,Big Data Engineer,100000,EUR,114047,Poland,Remote,United Kingdom,S,Data Engineering
+2020,Mid-level,Full-time,Lead Data Engineer,56000,USD,56000,Portugal,Remote,United States,M,Data Engineering
+2021,Mid-level,Full-time,Data Engineer,48000,GBP,66022,Hong Kong,Hybrid,United Kingdom,S,Data Engineering
+2021,Mid-level,Freelance,Data Engineer,20000,USD,20000,Italy,In-person,United States,L,Data Engineering
+2021,Senior,Full-time,Research Scientist,50000,USD,50000,France,Remote,United States,S,Data Science and Research
+2021,Senior,Full-time,Data Engineer,65000,EUR,76833,Romania,Hybrid,United Kingdom,S,Data Engineering
+2021,Senior,Full-time,Data Science Manager,152000,USD,152000,United States,Remote,France,L,Data Science and Research
+2020,Senior,Freelance,Computer Vision Engineer,60000,USD,60000,Russian Federation,Remote,United States,S,Machine Learning and AI
+2020,Mid-level,Full-time,Data Scientist,55000,EUR,62726,France,Hybrid,Luxembourg,S,Data Science and Research
+2020,Mid-level,Full-time,Data Engineer,130800,USD,130800,Spain,Remote,United States,M,Data Engineering
+2021,Mid-level,Full-time,Data Scientist,160000,SGD,119059,Singapore,Remote,Israel,M,Data Science and Research
